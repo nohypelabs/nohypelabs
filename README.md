@@ -75,7 +75,7 @@ Building production-ready tools that ship — no fluff, no noise.
 <div align="center">
 
 <a href="https://github.com/nohypelabs">
-  <img src="https://streak-stats.demolab.com?user=nohypelabs&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=nohypelabs&theme=tokyonight&hide_border=true&cache=1717693285" alt="GitHub Streak" />
 </a>
 
 </div>
