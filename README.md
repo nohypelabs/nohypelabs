@@ -74,9 +74,9 @@ Building production-ready tools that ship — no fluff, no noise.
 
 <div align="center">
 
-![nohypelabs's GitHub stats](https://github-readme-stats.vercel.app/api?username=nohypelabs&show_icons=true&theme=dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nohypelabs&layout=compact&theme=dark&hide_border=true)
+<a href="https://github.com/nohypelabs">
+  <img src="https://streak-stats.demolab.com?user=nohypelabs&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</a>
 
 </div>
 
