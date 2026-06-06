@@ -74,9 +74,9 @@ Building production-ready tools that ship — no fluff, no noise.
 
 <div align="center">
 
-![nohypelabs's GitHub stats](https://github-readme-stats.vercel.app/api?username=nohypelabs&show_icons=true&theme=radical&hide_border=true&bg_color=0B1020&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9)
+![nohypelabs's GitHub stats](https://github-readme-stats.vercel.app/api?username=nohypelabs&show_icons=true&theme=dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nohypelabs&layout=compact&theme=radical&hide_border=true&bg_color=0B1020&title_color=00D4FF&text_color=C9D1D9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nohypelabs&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
