@@ -1,4 +1,5 @@
 // Bikin assets/stats.svg (kartu GitHub Stats ala github-readme-stats, tema Tokyo Night).
+// Dijalankan harian oleh nasaq-id/profile-stats (Actions akun pribadi terkunci billing).
 // Dibuat sendiri karena instance publik github-readme-stats sering 503.
 // Jalan: GH_TOKEN=... GH_USER=nohypelabs node .github/scripts/stats-card.mjs
 import { writeFileSync } from "node:fs";
