@@ -1,93 +1,70 @@
-<div align="center">
-
-```
- ███╗   ██╗ ██████╗ ██╗  ██╗██╗   ██╗██████╗ ███████╗
- ████╗  ██║██╔═══██╗██║  ██║╚██╗ ██╔╝██╔══██╗██╔════╝
- ██╔██╗ ██║██║   ██║███████║ ╚████╔╝ ██████╔╝█████╗  
- ██║╚██╗██║██║   ██║██╔══██║  ╚██╔╝  ██╔═══╝ ██╔══╝  
- ██║ ╚████║╚██████╔╝██║  ██║   ██║   ██║     ███████╗
- ╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝     ╚══════╝
-```
-
-### `> labs`
-
-**I'm not following the hype. I'm the hype.**
-
-Building production-ready tools that ship — no fluff, no noise.
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-abdulgofur--builder.vercel.app-0B1020?style=flat&logo=vercel&logoColor=white)](https://abdulgofur-builder.vercel.app)
-[![Twitter](https://img.shields.io/badge/𝕏_@nohypelabs-000000?style=flat&logo=x&logoColor=white)](https://x.com/nohypelabs)
-
-</div>
-
----
-
-### what we build
-
 <table>
 <tr>
-<td width="50%">
-
-#### SignalFlow Agent
-> Full-stack perpetual DEX trading platform
-
-- Hyperliquid-style trading UI
-- 34 SoDEX symbols (crypto, stocks, commodities, indices)
-- Real-time charts, orderbook, position management
-- **Stack:** Next.js 16 · React 19 · Tailwind v4 · TypeScript 5
-
+<td width="38%" align="center">
+  <img src="assets/mascot.svg" alt="noHype Labs mascot" width="260" />
 </td>
-<td width="50%">
+<td width="62%">
 
-#### Portfolio
-> Developer portfolio & builder showcase
+## Halo! I'm Gofur 👋
 
-- Modern Next.js App Router architecture
-- Responsive, dark-themed UI
-- Deployed on Vercel
-- **Stack:** Next.js 16 · React 19 · Tailwind v4
+Builder behind **noHype Labs** from Jakarta, Indonesia. I'm not following the hype, I'm the hype.
+I build production-ready tools that actually ship: business apps (POS, inspection, logistics),
+learning platforms, and trading & on-chain AI agents on Solana. Daily driver: CachyOS + Hyprland,
+and a green-on-Tokyo-Night terminal.
+
+### Languages, Database, Tools
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,python,rust,kotlin,prisma,postgres,supabase,docker,linux,arch,git,vercel,solidity,bash&perline=10&theme=dark" alt="Tech stack" />
+</a>
+
+<br /><br />
+
+<img src="assets/stats.svg" alt="noHype Labs GitHub Stats" width="100%" />
 
 </td>
 </tr>
 </table>
 
----
+### what I'm building
 
-### tech stack
+<table>
+<tr>
+<td width="50%">
+
+#### [SignalFlow Agent](https://github.com/nohypelabs/signalflow-agent)
+> AI-powered signal-to-execution trading agent
+
+- Hyperliquid-style trading UI, 34 SoDEX symbols
+- Real-time charts, orderbook, position management
+- **Stack:** Next.js 16 · React 19 · Tailwind v4 · TypeScript
+
+</td>
+<td width="50%">
+
+#### [Bahann POS](https://github.com/nohypelabs/bahann-pos)
+> Point of Sale for retail businesses
+
+- Inventory management, sales tracking, reporting
+- Built for small shops that need it to just work
+- **Stack:** Next.js · TypeScript
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-</div>
-
----
-
-### github stats
-
-<div align="center">
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-abdulgofur--builder.vercel.app-1a1b26?style=flat&logo=vercel&logoColor=white)](https://abdulgofur-builder.vercel.app)
+[![Twitter](https://img.shields.io/badge/𝕏_@nohypelabs-000000?style=flat&logo=x&logoColor=white)](https://x.com/nohypelabs)
+![Profile views](https://komarev.com/ghpvc/?username=nohypelabs&color=1a1b26&style=flat&label=profile+views)
 
 <a href="https://github.com/nohypelabs">
-  <img src="https://streak-stats.demolab.com?user=nohypelabs&theme=tokyonight&hide_border=true&cache=1717693285" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=nohypelabs&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </a>
-
-</div>
-
----
-
-<div align="center">
 
 ```
 no hype. just code.
 ```
-
-![Profile views](https://komarev.com/ghpvc/?username=nohypelabs&color=0B1020&style=flat&label=profile+views)
 
 </div>

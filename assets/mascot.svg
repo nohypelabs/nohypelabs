@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="360" viewBox="0 0 300 360">
+  <defs>
+    <linearGradient id="fur" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#9ab8ff"/>
+      <stop offset="1" stop-color="#bb9af7"/>
+    </linearGradient>
+    <linearGradient id="scarf" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#9ece6a"/>
+      <stop offset="1" stop-color="#73daca"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#9ece6a" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#9ece6a" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- bayangan -->
+  <ellipse cx="150" cy="336" rx="80" ry="10" fill="#000" opacity=".25"/>
+
+  <!-- ekor -->
+  <path d="M200 285 C 250 290, 262 240, 238 222" fill="none" stroke="#16161e" stroke-width="22" stroke-linecap="round"/>
+  <path d="M200 285 C 250 290, 262 240, 238 222" fill="none" stroke="url(#fur)" stroke-width="16" stroke-linecap="round"/>
+
+  <!-- kaki -->
+  <rect x="108" y="282" width="34" height="44" rx="16" fill="url(#fur)" stroke="#16161e" stroke-width="3"/>
+  <rect x="158" y="282" width="34" height="44" rx="16" fill="url(#fur)" stroke="#16161e" stroke-width="3"/>
+
+  <!-- badan -->
+  <rect x="92" y="200" width="116" height="100" rx="38" fill="url(#fur)" stroke="#16161e" stroke-width="3"/>
+
+  <!-- antena -->
+  <circle cx="150" cy="28" r="20" fill="url(#glow)"/>
+  <line x1="150" y1="72" x2="150" y2="34" stroke="#16161e" stroke-width="7" stroke-linecap="round"/>
+  <line x1="150" y1="72" x2="150" y2="34" stroke="#c0caf5" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="150" cy="28" r="8" fill="#9ece6a" stroke="#16161e" stroke-width="3"/>
+
+  <!-- telinga -->
+  <path d="M74 104 L92 28 L140 78 Z" fill="url(#fur)" stroke="#16161e" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M226 104 L208 28 L160 78 Z" fill="url(#fur)" stroke="#16161e" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M88 88 L96 48 L122 76 Z" fill="#f7768e" opacity=".55"/>
+  <path d="M212 88 L204 48 L178 76 Z" fill="#f7768e" opacity=".55"/>
+
+  <!-- kepala -->
+  <rect x="56" y="66" width="188" height="146" rx="56" fill="url(#fur)" stroke="#16161e" stroke-width="3"/>
+
+  <!-- layar wajah -->
+  <rect x="80" y="96" width="140" height="92" rx="36" fill="#1a1b26" stroke="#16161e" stroke-width="3"/>
+  <ellipse cx="121" cy="138" rx="13" ry="16" fill="#9ece6a"/>
+  <ellipse cx="179" cy="138" rx="13" ry="16" fill="#9ece6a"/>
+  <circle cx="125" cy="132" r="4.5" fill="#fff"/>
+  <circle cx="183" cy="132" r="4.5" fill="#fff"/>
+  <circle cx="117" cy="145" r="2" fill="#fff" opacity=".7"/>
+  <circle cx="175" cy="145" r="2" fill="#fff" opacity=".7"/>
+  <path d="M141 163 q9 8 18 0" fill="none" stroke="#9ece6a" stroke-width="3" stroke-linecap="round"/>
+  <ellipse cx="99" cy="164" rx="9" ry="5" fill="#f7768e" opacity=".5"/>
+  <ellipse cx="201" cy="164" rx="9" ry="5" fill="#f7768e" opacity=".5"/>
+
+  <!-- syal -->
+  <rect x="84" y="200" width="132" height="22" rx="11" fill="url(#scarf)" stroke="#16161e" stroke-width="3"/>
+  <path d="M182 214 l8 40 l18 -4 l-6 -38 z" fill="url(#scarf)" stroke="#16161e" stroke-width="3" stroke-linejoin="round"/>
+
+  <!-- laptop -->
+  <rect x="104" y="226" width="92" height="58" rx="7" fill="#24283b" stroke="#16161e" stroke-width="3"/>
+  <rect x="110" y="232" width="80" height="46" rx="4" fill="#1a1b26"/>
+  <text x="150" y="262" text-anchor="middle" font-family="JetBrains Mono, Fira Code, monospace" font-size="18" font-weight="700" fill="#9ece6a">&lt;/&gt;</text>
+  <rect x="96" y="282" width="108" height="9" rx="4.5" fill="#414868" stroke="#16161e" stroke-width="3"/>
+
+  <!-- tangan -->
+  <ellipse cx="100" cy="262" rx="14" ry="20" transform="rotate(-18 100 262)" fill="url(#fur)" stroke="#16161e" stroke-width="3"/>
+  <ellipse cx="200" cy="262" rx="14" ry="20" transform="rotate(18 200 262)" fill="url(#fur)" stroke="#16161e" stroke-width="3"/>
+</svg>

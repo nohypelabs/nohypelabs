@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="467" height="195" viewBox="0 0 467 195" role="img" aria-label="noHype Labs's GitHub Stats">
+  <style>
+    .t { font: 600 18px 'Segoe UI', Ubuntu, sans-serif; fill: #70a5fd; }
+    .l { font: 600 14px 'Segoe UI', Ubuntu, sans-serif; fill: #a9b1d6; }
+    .v { font: 700 14px 'Segoe UI', Ubuntu, sans-serif; fill: #38bdae; }
+    .g { font: 800 24px 'Segoe UI', Ubuntu, sans-serif; fill: #c0caf5; }
+    .row { opacity: 0; animation: in .4s ease-out forwards; }
+    .ring { stroke-dasharray: 251.32741228718345; stroke-dashoffset: 251.32741228718345; animation: fill 1s ease-out .2s forwards; }
+    @keyframes in { to { opacity: 1; } }
+    @keyframes fill { to { stroke-dashoffset: 108.60712759286479; } }
+  </style>
+  <rect x="0.5" y="0.5" width="466" height="194" rx="6" fill="#1a1b26" stroke="#414868"/>
+  <text x="25" y="35" class="t">noHype Labs's GitHub Stats</text>
+  <g class="row" transform="translate(25, 70)" style="animation-delay:150ms">
+    <circle cx="6" cy="-5" r="4" fill="#bb9af7"/>
+    <text x="20" y="0" class="l">Total Stars Earned:</text>
+    <text x="215" y="0" class="v">11</text>
+  </g>
+  <g class="row" transform="translate(25, 95)" style="animation-delay:270ms">
+    <circle cx="6" cy="-5" r="4" fill="#bb9af7"/>
+    <text x="20" y="0" class="l">Total Commits (last year):</text>
+    <text x="215" y="0" class="v">4.1k</text>
+  </g>
+  <g class="row" transform="translate(25, 120)" style="animation-delay:390ms">
+    <circle cx="6" cy="-5" r="4" fill="#bb9af7"/>
+    <text x="20" y="0" class="l">Total PRs:</text>
+    <text x="215" y="0" class="v">318</text>
+  </g>
+  <g class="row" transform="translate(25, 145)" style="animation-delay:510ms">
+    <circle cx="6" cy="-5" r="4" fill="#bb9af7"/>
+    <text x="20" y="0" class="l">Total Issues:</text>
+    <text x="215" y="0" class="v">0</text>
+  </g>
+  <g class="row" transform="translate(25, 170)" style="animation-delay:630ms">
+    <circle cx="6" cy="-5" r="4" fill="#bb9af7"/>
+    <text x="20" y="0" class="l">Contributed to (last year):</text>
+    <text x="215" y="0" class="v">3</text>
+  </g>
+  <g transform="translate(385, 108)">
+    <circle r="40" fill="none" stroke="#70a5fd" stroke-opacity=".2" stroke-width="6"/>
+    <circle r="40" fill="none" stroke="#70a5fd" stroke-width="6" stroke-linecap="round" class="ring" transform="rotate(-90)"/>
+    <text y="9" text-anchor="middle" class="g">B+</text>
+  </g>
+</svg>
