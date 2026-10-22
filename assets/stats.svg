@@ -7,7 +7,7 @@
     .row { opacity: 0; animation: in .4s ease-out forwards; }
     .ring { stroke-dasharray: 251.32741228718345; stroke-dashoffset: 251.32741228718345; animation: fill 1s ease-out .2s forwards; }
     @keyframes in { to { opacity: 1; } }
-    @keyframes fill { to { stroke-dashoffset: 128.11566047704562; } }
+    @keyframes fill { to { stroke-dashoffset: 128.11547417735304; } }
   </style>
   <rect x="0.5" y="0.5" width="466" height="194" rx="6" fill="#1a1b26" stroke="#414868"/>
   <text x="25" y="35" class="t">noHype Labs's GitHub Stats</text>
